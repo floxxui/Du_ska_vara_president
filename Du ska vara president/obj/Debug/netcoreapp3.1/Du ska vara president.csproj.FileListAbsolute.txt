@@ -1,0 +1,13 @@
+C:\Users\sofia.sorensen\Documents\Webbutveckling\VS code\Programmering 2\Du_ska_vara_president\Du ska vara president\bin\Debug\netcoreapp3.1\Du ska vara president.exe
+C:\Users\sofia.sorensen\Documents\Webbutveckling\VS code\Programmering 2\Du_ska_vara_president\Du ska vara president\bin\Debug\netcoreapp3.1\Du ska vara president.deps.json
+C:\Users\sofia.sorensen\Documents\Webbutveckling\VS code\Programmering 2\Du_ska_vara_president\Du ska vara president\bin\Debug\netcoreapp3.1\Du ska vara president.runtimeconfig.json
+C:\Users\sofia.sorensen\Documents\Webbutveckling\VS code\Programmering 2\Du_ska_vara_president\Du ska vara president\bin\Debug\netcoreapp3.1\Du ska vara president.runtimeconfig.dev.json
+C:\Users\sofia.sorensen\Documents\Webbutveckling\VS code\Programmering 2\Du_ska_vara_president\Du ska vara president\bin\Debug\netcoreapp3.1\Du ska vara president.dll
+C:\Users\sofia.sorensen\Documents\Webbutveckling\VS code\Programmering 2\Du_ska_vara_president\Du ska vara president\bin\Debug\netcoreapp3.1\Du ska vara president.pdb
+C:\Users\sofia.sorensen\Documents\Webbutveckling\VS code\Programmering 2\Du_ska_vara_president\Du ska vara president\obj\Debug\netcoreapp3.1\Du ska vara president.csprojAssemblyReference.cache
+C:\Users\sofia.sorensen\Documents\Webbutveckling\VS code\Programmering 2\Du_ska_vara_president\Du ska vara president\obj\Debug\netcoreapp3.1\Du ska vara president.AssemblyInfoInputs.cache
+C:\Users\sofia.sorensen\Documents\Webbutveckling\VS code\Programmering 2\Du_ska_vara_president\Du ska vara president\obj\Debug\netcoreapp3.1\Du ska vara president.AssemblyInfo.cs
+C:\Users\sofia.sorensen\Documents\Webbutveckling\VS code\Programmering 2\Du_ska_vara_president\Du ska vara president\obj\Debug\netcoreapp3.1\Du ska vara president.csproj.CoreCompileInputs.cache
+C:\Users\sofia.sorensen\Documents\Webbutveckling\VS code\Programmering 2\Du_ska_vara_president\Du ska vara president\obj\Debug\netcoreapp3.1\Du ska vara president.dll
+C:\Users\sofia.sorensen\Documents\Webbutveckling\VS code\Programmering 2\Du_ska_vara_president\Du ska vara president\obj\Debug\netcoreapp3.1\Du ska vara president.pdb
+C:\Users\sofia.sorensen\Documents\Webbutveckling\VS code\Programmering 2\Du_ska_vara_president\Du ska vara president\obj\Debug\netcoreapp3.1\Du ska vara president.genruntimeconfig.cache
